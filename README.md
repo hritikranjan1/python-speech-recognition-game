@@ -35,7 +35,7 @@ Optional but recommended:
 ## 🚀 Installation
 1. Clone the repository:
 
-       git clone https://github.com/your-username/python-speech-recognition-game.git
+       git clone https://github.com/your-hritikranjan1/python-speech-recognition-game.git
        cd python-speech-recognition-game
 2.Set up a virtual environment (optional):
 
