@@ -86,8 +86,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## 📧 Contact
 
 For any issues or feature requests, feel free to contact me via GitHub or open an issue in this repository.
-    - Name: Hritik ranjan
-    - Telegram: https://t.me/codewithluv143
-    - LinkedIn: https://www.linkedin.com/in/hritik-ranjan-05a835230/
-    - X:https://x.com/luvranjan143
--
+-  Name: Hritik ranjan
+- Telegram: https://t.me/codewithluv143
+- LinkedIn: https://www.linkedin.com/in/hritik-ranjan-05a835230/
+- X:https://x.com/luvranjan143
+
